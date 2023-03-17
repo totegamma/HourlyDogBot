@@ -1,5 +1,6 @@
 import asyncio
 import json
+import os
 import websockets
 import urllib.request
 from misskey import Misskey
